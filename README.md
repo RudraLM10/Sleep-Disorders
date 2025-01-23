@@ -26,7 +26,7 @@ Heart Rate: Measured in beats per minute (BPM).
 
 ##  Project Structure & Workflow
 
-The entire analysis is done in Sleep_Disorder_Pred.ipynb. It follows the following workflow:
+The entire analysis is done in **`Sleep_Disorder_Pred.ipynb`**. It follows the following workflow:
 
 * Introduction
 * Importing Libraries
