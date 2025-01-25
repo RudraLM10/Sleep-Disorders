@@ -43,4 +43,6 @@ The entire analysis is done in **`Sleep_Disorder_Pred.ipynb`**. It follows the f
 3. Execute the notebook to familiarize yourself with the project's workflow.  
 4. If interested, contribute by enhancing the model or improving the analysis.
 
+I have also upload my analysis on [Medium](https://medium.com/@rudralm10/unlocking-better-sleep-identifying-key-factors-and-personalized-solutions-for-sleep-disorders-e0c7cd0976e0).
+
 Feel free to contact me on [LinkedIn](www.linkedin.com/in/rudra-goyal-b6036a285).
